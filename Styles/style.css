@@ -422,7 +422,8 @@ background-color: #45ac8c;
     }
 
     .agregar-imagen{
-        width: 80%;
+        width: 60%;
+        height: 60%;
     }
 
     .img-galeria{
@@ -445,6 +446,10 @@ background-color: #45ac8c;
     /*para el formulario*/
     .contact-form{
         width: 80%;
+    }
+    
+    #reloj{
+        width: 50%;
     }
 
 }
@@ -512,4 +517,9 @@ background-color: #45ac8c;
     .contact-form{
         width: 80%;
     }
+    
+    #reloj{
+        width: 30%;
+    }
+    
 }
